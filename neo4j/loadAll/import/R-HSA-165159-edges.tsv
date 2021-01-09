@@ -1,0 +1,502 @@
+source	target	interaction	reaction
+species_5653945	reaction_5653974	reactantFor	Ragulator binds Rag dimers
+species_5653921	reaction_5653974	reactantFor	Ragulator binds Rag dimers
+reaction_5653974	species_5653979	produces	Ragulator binds Rag dimers
+uniprotkb:Q9HB90	species_5653945	complexMember	Ragulator binds Rag dimers
+ChEBI:17552	species_5653945	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q9NQL2	species_5653945	complexMember	Ragulator binds Rag dimers
+ChEBI:15996	species_5653945	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q7L523	species_5653945	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q5VZM2	species_5653945	complexMember	Ragulator binds Rag dimers
+uniprotkb:O43504	species_5653921	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q6IAA8	species_5653921	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q9Y2Q5	species_5653921	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q9UHA4	species_5653921	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q0VGL1	species_5653921	complexMember	Ragulator binds Rag dimers
+uniprotkb:O43504	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q6IAA8	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q9Y2Q5	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q9UHA4	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q0VGL1	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q9HB90	species_5653979	complexMember	Ragulator binds Rag dimers
+ChEBI:17552	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q9NQL2	species_5653979	complexMember	Ragulator binds Rag dimers
+ChEBI:15996	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q7L523	species_5653979	complexMember	Ragulator binds Rag dimers
+uniprotkb:Q5VZM2	species_5653979	complexMember	Ragulator binds Rag dimers
+species_72589	reaction_165777	reactantFor	Phosphorylation and activation of eIF4B by activated S6K1
+reaction_165777	species_165773	produces	Phosphorylation and activation of eIF4B by activated S6K1
+species_165714	reaction_165777	modifies	Phosphorylation and activation of eIF4B by activated S6K1
+species_165716	reaction_165718	reactantFor	mTORC1 phosphorylation of RPS6KB1 (S6K)
+reaction_165718	species_165714	produces	mTORC1 phosphorylation of RPS6KB1 (S6K)
+species_165678	reaction_165718	modifies	mTORC1 phosphorylation of RPS6KB1 (S6K)
+species_5672861	reaction_165718	modifies	mTORC1 phosphorylation of RPS6KB1 (S6K)
+species_5693284	reaction_165718	modifies	mTORC1 phosphorylation of RPS6KB1 (S6K)
+species_9679098	reaction_165718	modifies	mTORC1 phosphorylation of RPS6KB1 (S6K)
+species_72584	reaction_165766	reactantFor	Phosphorylation and activation of eIF4G by activated S6K1
+reaction_165766	species_165762	produces	Phosphorylation and activation of eIF4G by activated S6K1
+species_165714	reaction_165766	modifies	Phosphorylation and activation of eIF4G by activated S6K1
+species_9678687	reaction_9679044	reactantFor	FKBP1A binds sirolimus
+species_2026007	reaction_9679044	reactantFor	FKBP1A binds sirolimus
+reaction_9679044	species_9679098	produces	FKBP1A binds sirolimus
+uniprotkb:P62942	species_9679098	complexMember	FKBP1A binds sirolimus
+ligandId:6031	species_9679098	complexMember	FKBP1A binds sirolimus
+species_72381	reaction_165726	reactantFor	Phosphorylation of Ribosomal protein S6 by activated S6K1
+reaction_165726	species_165727	produces	Phosphorylation of Ribosomal protein S6 by activated S6K1
+species_165714	reaction_165726	modifies	Phosphorylation of Ribosomal protein S6 by activated S6K1
+species_165745	reaction_165758	reactantFor	Phosphorylation and inactivation of eEF2K by activated S6K1
+reaction_165758	species_165755	produces	Phosphorylation and inactivation of eEF2K by activated S6K1
+species_165714	reaction_165758	modifies	Phosphorylation and inactivation of eEF2K by activated S6K1
+species_72581	reaction_165692	reactantFor	Phosphorylation of 4E-BP1 by activated mTORC1
+reaction_165692	species_165697	produces	Phosphorylation of 4E-BP1 by activated mTORC1
+species_165678	reaction_165692	modifies	Phosphorylation of 4E-BP1 by activated mTORC1
+species_5672861	reaction_165692	modifies	Phosphorylation of 4E-BP1 by activated mTORC1
+species_9679098	reaction_165692	modifies	Phosphorylation of 4E-BP1 by activated mTORC1
+species_5672831	reaction_165692	modifies	Phosphorylation of 4E-BP1 by activated mTORC1
+uniprotkb:P06730	species_72581	complexMember	Phosphorylation of 4E-BP1 by activated mTORC1
+uniprotkb:Q13541	species_72581	complexMember	Phosphorylation of 4E-BP1 by activated mTORC1
+uniprotkb:P06730	species_165697	complexMember	Phosphorylation of 4E-BP1 by activated mTORC1
+uniprotkb:Q13541	species_165697	complexMember	Phosphorylation of 4E-BP1 by activated mTORC1
+species_165697	reaction_165708	reactantFor	Dissociation of phosphorylated 4EBP1 from eIF4E
+reaction_165708	species_165685	produces	Dissociation of phosphorylated 4EBP1 from eIF4E
+reaction_165708	species_72578	produces	Dissociation of phosphorylated 4EBP1 from eIF4E
+uniprotkb:P06730	species_165697	complexMember	Dissociation of phosphorylated 4EBP1 from eIF4E
+uniprotkb:Q13541	species_165697	complexMember	Dissociation of phosphorylated 4EBP1 from eIF4E
+species_5215938	reaction_8952716	reactantFor	SLC38A9 binds Ragulator:Rag dimers
+species_5653979	reaction_8952716	reactantFor	SLC38A9 binds Ragulator:Rag dimers
+reaction_8952716	species_8952725	produces	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:O43504	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q6IAA8	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9Y2Q5	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9UHA4	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q0VGL1	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9HB90	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+ChEBI:17552	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9NQL2	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+ChEBI:15996	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q7L523	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q5VZM2	species_5653979	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q8NBW4	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:O43504	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q6IAA8	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9Y2Q5	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9UHA4	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q0VGL1	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9HB90	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+ChEBI:17552	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q9NQL2	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+ChEBI:15996	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q7L523	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+uniprotkb:Q5VZM2	species_8952725	complexMember	SLC38A9 binds Ragulator:Rag dimers
+species_5655432	reaction_5653936	reactantFor	Formation of Ragulator complex
+species_5653581	reaction_5653936	reactantFor	Formation of Ragulator complex
+species_5653583	reaction_5653936	reactantFor	Formation of Ragulator complex
+species_5653582	reaction_5653936	reactantFor	Formation of Ragulator complex
+species_5655441	reaction_5653936	reactantFor	Formation of Ragulator complex
+reaction_5653936	species_5653921	produces	Formation of Ragulator complex
+uniprotkb:O43504	species_5653921	complexMember	Formation of Ragulator complex
+uniprotkb:Q6IAA8	species_5653921	complexMember	Formation of Ragulator complex
+uniprotkb:Q9Y2Q5	species_5653921	complexMember	Formation of Ragulator complex
+uniprotkb:Q9UHA4	species_5653921	complexMember	Formation of Ragulator complex
+uniprotkb:Q0VGL1	species_5653921	complexMember	Formation of Ragulator complex
+species_377400	reaction_5653968	reactantFor	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+species_8952725	reaction_5653968	reactantFor	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+reaction_5653968	species_5653972	produces	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q8N122	species_377400	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:P42345	species_377400	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9BVC4	species_377400	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q8NBW4	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:O43504	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q6IAA8	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9Y2Q5	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9UHA4	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q0VGL1	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9HB90	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+ChEBI:17552	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9NQL2	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+ChEBI:15996	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q7L523	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q5VZM2	species_8952725	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q8N122	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:P42345	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9BVC4	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q8NBW4	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:O43504	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q6IAA8	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9Y2Q5	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9UHA4	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q0VGL1	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9HB90	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+ChEBI:17552	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q9NQL2	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+ChEBI:15996	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q7L523	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+uniprotkb:Q5VZM2	species_5653972	complexMember	Ragulator:Rag dimers:SLC38A9 bind mTORC1
+species_5672831	reaction_377186	reactantFor	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+reaction_377186	species_377420	produces	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+species_199430	reaction_377186	modifies	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q96B36	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q8N122	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:P42345	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9BVC4	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q8NBW4	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:O43504	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q6IAA8	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9Y2Q5	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9UHA4	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q0VGL1	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9HB90	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+ChEBI:17552	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9NQL2	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+ChEBI:15996	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q7L523	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q5VZM2	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q15382	species_5672831	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q96B36	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q8N122	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:P42345	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9BVC4	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q8NBW4	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:O43504	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q6IAA8	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9Y2Q5	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9UHA4	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q0VGL1	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9HB90	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+ChEBI:17552	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q9NQL2	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+ChEBI:15996	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q7L523	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q5VZM2	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+uniprotkb:Q15382	species_377420	complexMember	Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+species_29438	reaction_165195	reactantFor	GTP loading by Rheb
+species_165191	reaction_165195	reactantFor	GTP loading by Rheb
+reaction_165195	species_29420	produces	GTP loading by Rheb
+reaction_165195	species_165189	produces	GTP loading by Rheb
+uniprotkb:Q15382	species_165191	complexMember	GTP loading by Rheb
+ChEBI:17552	species_165191	complexMember	GTP loading by Rheb
+uniprotkb:Q15382	species_165189	complexMember	GTP loading by Rheb
+ChEBI:15996	species_165189	complexMember	GTP loading by Rheb
+species_380934	reaction_380949	reactantFor	AMPK is dephosphorylated
+reaction_380949	species_29372	produces	AMPK is dephosphorylated
+reaction_380949	species_380961	produces	AMPK is dephosphorylated
+species_380928	reaction_380949	modifies	AMPK is dephosphorylated
+uniprotkb:Q13131	species_380934	complexMember	AMPK is dephosphorylated
+uniprotkb:P54646	species_380934	complexMember	AMPK is dephosphorylated
+uniprotkb:Q9Y478	species_380934	complexMember	AMPK is dephosphorylated
+uniprotkb:O43741	species_380934	complexMember	AMPK is dephosphorylated
+uniprotkb:Q9UGJ0	species_380934	complexMember	AMPK is dephosphorylated
+uniprotkb:P54619	species_380934	complexMember	AMPK is dephosphorylated
+uniprotkb:Q9UGI9	species_380934	complexMember	AMPK is dephosphorylated
+uniprotkb:Q13131	species_380961	complexMember	AMPK is dephosphorylated
+uniprotkb:P54646	species_380961	complexMember	AMPK is dephosphorylated
+uniprotkb:Q9Y478	species_380961	complexMember	AMPK is dephosphorylated
+uniprotkb:O43741	species_380961	complexMember	AMPK is dephosphorylated
+uniprotkb:Q9UGJ0	species_380961	complexMember	AMPK is dephosphorylated
+uniprotkb:P54619	species_380961	complexMember	AMPK is dephosphorylated
+uniprotkb:Q9UGI9	species_380961	complexMember	AMPK is dephosphorylated
+species_165678	reaction_447074	reactantFor	AMPK phosphorylates Raptor in the mTORC1 complex
+reaction_447074	species_5693284	produces	AMPK phosphorylates Raptor in the mTORC1 complex
+species_380931	reaction_447074	modifies	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q8N122	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:P42345	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9BVC4	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q8NBW4	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:O43504	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q6IAA8	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9Y2Q5	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9UHA4	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q0VGL1	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9HB90	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+ChEBI:17552	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9NQL2	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+ChEBI:15996	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q7L523	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q5VZM2	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q15382	species_165678	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q8N122	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:P42345	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9BVC4	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q8NBW4	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:O43504	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q6IAA8	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9Y2Q5	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9UHA4	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q0VGL1	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9HB90	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+ChEBI:17552	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q9NQL2	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+ChEBI:15996	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q7L523	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q5VZM2	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+uniprotkb:Q15382	species_5693284	complexMember	AMPK phosphorylates Raptor in the mTORC1 complex
+species_380961	reaction_200421	reactantFor	Activation of cytosolic AMPK by phosphorylation
+reaction_200421	species_380934	produces	Activation of cytosolic AMPK by phosphorylation
+species_380967	reaction_200421	modifies	Activation of cytosolic AMPK by phosphorylation
+species_76577	reaction_200421	modifies	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q13131	species_380961	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:P54646	species_380961	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q9Y478	species_380961	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:O43741	species_380961	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q9UGJ0	species_380961	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:P54619	species_380961	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q9UGI9	species_380961	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q13131	species_380934	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:P54646	species_380934	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q9Y478	species_380934	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:O43741	species_380934	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q9UGJ0	species_380934	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:P54619	species_380934	complexMember	Activation of cytosolic AMPK by phosphorylation
+uniprotkb:Q9UGI9	species_380934	complexMember	Activation of cytosolic AMPK by phosphorylation
+species_165678	reaction_380979	reactantFor	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+reaction_380979	species_29372	produces	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+reaction_380979	species_5693447	produces	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+species_165678	reaction_380979	modifies	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+species_381855	reaction_380979	modifies	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q8N122	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:P42345	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9BVC4	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q8NBW4	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:O43504	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q6IAA8	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9Y2Q5	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9UHA4	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q0VGL1	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9HB90	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+ChEBI:17552	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9NQL2	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+ChEBI:15996	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q7L523	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q5VZM2	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q15382	species_165678	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q8N122	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:P42345	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9BVC4	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q8NBW4	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:O43504	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q6IAA8	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9Y2Q5	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9UHA4	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q0VGL1	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9HB90	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+ChEBI:17552	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q9NQL2	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+ChEBI:15996	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q7L523	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q5VZM2	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+uniprotkb:Q15382	species_5693447	complexMember	RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+species_380934	reaction_380930	reactantFor	Phosphorylated AMPK binds AMP
+species_76577	reaction_380930	reactantFor	Phosphorylated AMPK binds AMP
+reaction_380930	species_380931	produces	Phosphorylated AMPK binds AMP
+uniprotkb:Q13131	species_380934	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:P54646	species_380934	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:Q9Y478	species_380934	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:O43741	species_380934	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:Q9UGJ0	species_380934	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:P54619	species_380934	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:Q9UGI9	species_380934	complexMember	Phosphorylated AMPK binds AMP
+ChEBI:16027	species_380931	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:Q13131	species_380931	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:P54646	species_380931	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:Q9Y478	species_380931	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:O43741	species_380931	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:Q9UGJ0	species_380931	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:P54619	species_380931	complexMember	Phosphorylated AMPK binds AMP
+uniprotkb:Q9UGI9	species_380931	complexMember	Phosphorylated AMPK binds AMP
+species_165175	reaction_380927	reactantFor	p-AMPK phosphorylates TSC1:TSC2
+reaction_380927	species_381855	produces	p-AMPK phosphorylates TSC1:TSC2
+species_380931	reaction_380927	modifies	p-AMPK phosphorylates TSC1:TSC2
+uniprotkb:Q92574	species_165175	complexMember	p-AMPK phosphorylates TSC1:TSC2
+uniprotkb:P49815	species_165175	complexMember	p-AMPK phosphorylates TSC1:TSC2
+uniprotkb:Q92574	species_381855	complexMember	p-AMPK phosphorylates TSC1:TSC2
+uniprotkb:P49815	species_381855	complexMember	p-AMPK phosphorylates TSC1:TSC2
+species_380954	reaction_380942	reactantFor	LKB1 forms a trimeric complex with STRAD and MO25
+species_380975	reaction_380942	reactantFor	LKB1 forms a trimeric complex with STRAD and MO25
+species_380963	reaction_380942	reactantFor	LKB1 forms a trimeric complex with STRAD and MO25
+reaction_380942	species_380967	produces	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q9H9S4	species_380975	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q9Y376	species_380975	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q7RTN6	species_380963	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q9C0K7	species_380963	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q7RTN6	species_380967	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q9C0K7	species_380967	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q9H9S4	species_380967	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q9Y376	species_380967	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+uniprotkb:Q15831	species_380967	complexMember	LKB1 forms a trimeric complex with STRAD and MO25
+species_5672861	reaction_5672828	reactantFor	mTORC1 phosphorylates AKT1S1
+reaction_5672828	species_5672866	produces	mTORC1 phosphorylates AKT1S1
+species_5672861	reaction_5672828	modifies	mTORC1 phosphorylates AKT1S1
+uniprotkb:P31946	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q96B36	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q8N122	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:P42345	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9BVC4	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q8NBW4	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:O43504	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q6IAA8	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9Y2Q5	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9UHA4	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q0VGL1	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9HB90	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+ChEBI:17552	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9NQL2	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+ChEBI:15996	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q7L523	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q5VZM2	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q15382	species_5672861	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:P31946	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q96B36	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q8N122	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:P42345	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9BVC4	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q8NBW4	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:O43504	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q6IAA8	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9Y2Q5	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9UHA4	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q0VGL1	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9HB90	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+ChEBI:17552	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q9NQL2	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+ChEBI:15996	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q7L523	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q5VZM2	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+uniprotkb:Q15382	species_5672866	complexMember	mTORC1 phosphorylates AKT1S1
+species_377420	reaction_5672824	reactantFor	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+species_48888	reaction_5672824	reactantFor	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+reaction_5672824	species_5672861	produces	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q96B36	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q8N122	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:P42345	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9BVC4	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q8NBW4	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:O43504	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q6IAA8	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9Y2Q5	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9UHA4	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q0VGL1	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9HB90	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+ChEBI:17552	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9NQL2	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+ChEBI:15996	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q7L523	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q5VZM2	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q15382	species_377420	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:P31946	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q96B36	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q8N122	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:P42345	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9BVC4	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q8NBW4	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:O43504	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q6IAA8	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9Y2Q5	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9UHA4	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q0VGL1	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9HB90	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+ChEBI:17552	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q9NQL2	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+ChEBI:15996	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q7L523	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q5VZM2	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+uniprotkb:Q15382	species_5672861	complexMember	Phosphorylated AKT1S1:mTORC1 binds YWHAB
+species_165189	reaction_165680	reactantFor	Formation of active mTORC1 complex
+species_5653972	reaction_165680	reactantFor	Formation of active mTORC1 complex
+reaction_165680	species_165678	produces	Formation of active mTORC1 complex
+uniprotkb:Q15382	species_165189	complexMember	Formation of active mTORC1 complex
+ChEBI:15996	species_165189	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q8N122	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:P42345	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9BVC4	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q8NBW4	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:O43504	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q6IAA8	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9Y2Q5	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9UHA4	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q0VGL1	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9HB90	species_5653972	complexMember	Formation of active mTORC1 complex
+ChEBI:17552	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9NQL2	species_5653972	complexMember	Formation of active mTORC1 complex
+ChEBI:15996	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q7L523	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q5VZM2	species_5653972	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q8N122	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:P42345	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9BVC4	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q8NBW4	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:O43504	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q6IAA8	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9Y2Q5	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9UHA4	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q0VGL1	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9HB90	species_165678	complexMember	Formation of active mTORC1 complex
+ChEBI:17552	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q9NQL2	species_165678	complexMember	Formation of active mTORC1 complex
+ChEBI:15996	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q7L523	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q5VZM2	species_165678	complexMember	Formation of active mTORC1 complex
+uniprotkb:Q15382	species_165678	complexMember	Formation of active mTORC1 complex
+species_5653946	reaction_5653957	reactantFor	Rag dimer formation
+species_5653964	reaction_5653957	reactantFor	Rag dimer formation
+reaction_5653957	species_5653945	produces	Rag dimer formation
+ChEBI:15996	species_5653946	complexMember	Rag dimer formation
+uniprotkb:Q7L523	species_5653946	complexMember	Rag dimer formation
+uniprotkb:Q5VZM2	species_5653946	complexMember	Rag dimer formation
+uniprotkb:Q9HB90	species_5653964	complexMember	Rag dimer formation
+ChEBI:17552	species_5653964	complexMember	Rag dimer formation
+uniprotkb:Q9NQL2	species_5653964	complexMember	Rag dimer formation
+uniprotkb:Q9HB90	species_5653945	complexMember	Rag dimer formation
+ChEBI:17552	species_5653945	complexMember	Rag dimer formation
+uniprotkb:Q9NQL2	species_5653945	complexMember	Rag dimer formation
+ChEBI:15996	species_5653945	complexMember	Rag dimer formation
+uniprotkb:Q7L523	species_5653945	complexMember	Rag dimer formation
+uniprotkb:Q5VZM2	species_5653945	complexMember	Rag dimer formation
+species_165678	reaction_5672843	reactantFor	AKT1S1 (PRAS40) binds mTORC1
+species_200155	reaction_5672843	reactantFor	AKT1S1 (PRAS40) binds mTORC1
+reaction_5672843	species_5672831	produces	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q8N122	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:P42345	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9BVC4	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q8NBW4	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:O43504	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q6IAA8	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9Y2Q5	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9UHA4	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q0VGL1	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9HB90	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+ChEBI:17552	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9NQL2	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+ChEBI:15996	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q7L523	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q5VZM2	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q15382	species_165678	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q96B36	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q8N122	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:P42345	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9BVC4	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q8NBW4	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:O43504	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q6IAA8	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9Y2Q5	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9UHA4	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q0VGL1	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9HB90	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+ChEBI:17552	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q9NQL2	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+ChEBI:15996	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q7L523	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q5VZM2	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+uniprotkb:Q15382	species_5672831	complexMember	AKT1S1 (PRAS40) binds mTORC1
+species_428011	reaction_8952726	reactantFor	SLC38A9 transports L-Arg from lysosomal lumen to cytosol
+reaction_8952726	species_29468	produces	SLC38A9 transports L-Arg from lysosomal lumen to cytosol
+species_8952725	reaction_8952726	modifies	SLC38A9 transports L-Arg from lysosomal lumen to cytosol
+species_2980548	reaction_165162	reactantFor	Phosphorylation of TSC2 by PKB
+reaction_165162	species_165164	produces	Phosphorylation of TSC2 by PKB
+species_162387	reaction_165162	modifies	Phosphorylation of TSC2 by PKB
+species_165175	reaction_165182	reactantFor	Phosphorylation of complexed TSC2 by PKB
+reaction_165182	species_165180	produces	Phosphorylation of complexed TSC2 by PKB
+species_162387	reaction_165182	modifies	Phosphorylation of complexed TSC2 by PKB
+uniprotkb:Q92574	species_165175	complexMember	Phosphorylation of complexed TSC2 by PKB
+uniprotkb:P49815	species_165175	complexMember	Phosphorylation of complexed TSC2 by PKB
+uniprotkb:Q92574	species_165180	complexMember	Phosphorylation of complexed TSC2 by PKB
+uniprotkb:P49815	species_165180	complexMember	Phosphorylation of complexed TSC2 by PKB

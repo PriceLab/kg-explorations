@@ -1,0 +1,130 @@
+id	type	label	parent
+species_5653945	complex	RagA,B:GTP:RagC,D:GDP	
+species_5653921	complex	Ragulator	
+reaction_5653974	reaction	Ragulator binds Rag dimers	
+uniprotkb.Q9HB90	protein	RRAGC	
+ChEBI.17552	unrecognized	ChEBI:17552	
+uniprotkb.Q9NQL2	protein	RRAGD	
+ChEBI.15996	unrecognized	ChEBI:15996	
+uniprotkb.Q7L523	protein	RRAGA	
+uniprotkb.Q5VZM2	protein	RRAGB	
+uniprotkb.O43504	protein	LAMTOR5	
+uniprotkb.Q6IAA8	protein	LAMTOR1	
+uniprotkb.Q9Y2Q5	protein	LAMTOR2	
+uniprotkb.Q9UHA4	protein	LAMTOR3	
+uniprotkb.Q0VGL1	protein	LAMTOR4	
+species_5653979	complex	Ragulator:RagA,B:GTP:RagC,D:GDP	
+species_72589	molecule	EIF4B	
+reaction_165777	reaction	Phosphorylation and activation of eIF4B by activated S6K1	
+species_165714	molecule	p-S371,T389-RPS6KB1	
+species_165773	molecule	p-S422-EIF4B	
+species_165716	molecule	RPS6KB1	
+reaction_165718	reaction	mTORC1 phosphorylation of RPS6KB1 (S6K)	
+species_165678	complex	Active mTORC1 complex	
+species_5672861	complex	mTORC1:p-T246-AKT1S1:YWHAB	
+species_5693284	complex	mTORC1 with p-S722,S792-RPTOR:Ragulator:Rag:GNP:RHEB:GTP	
+species_9679098	complex	FKBP1A:sirolimus	
+species_72584	molecule	EIF4G1	
+reaction_165766	reaction	Phosphorylation and activation of eIF4G by activated S6K1	
+species_165762	molecule	p-S1108,S1148,S1192-EIF4G1	
+species_9678687	drug	rapamycin	
+species_2026007	molecule	FKBP1A	
+reaction_9679044	reaction	FKBP1A binds sirolimus	
+uniprotkb.P62942	protein	FKBP1A	
+ligandId.6031	ligand	rapamycin	
+species_72381	molecule	RPS6	
+reaction_165726	reaction	Phosphorylation of Ribosomal protein S6 by activated S6K1	
+species_165727	molecule	p-5S-RPS6	
+species_165745	molecule	EEF2K	
+reaction_165758	reaction	Phosphorylation and inactivation of eEF2K by activated S6K1	
+species_165755	molecule	p-S366-EEF2K	
+species_72581	complex	eIF4E:4E-BP	
+reaction_165692	reaction	Phosphorylation of 4E-BP1 by activated mTORC1	
+species_5672831	complex	mTORC1:RHEB:GTP:AKT1S1	
+uniprotkb.P06730	protein	EIF4E	
+uniprotkb.Q13541	protein	EIF4EBP1	
+species_165697	complex	eIF4E:4E-BP1-P	
+reaction_165708	reaction	Dissociation of phosphorylated 4EBP1 from eIF4E	
+species_165685	molecule	p-T37,T46-EIF4EBP1	
+species_72578	molecule	EIF4E	
+species_5215938	molecule	SLC38A9	
+reaction_8952716	reaction	SLC38A9 binds Ragulator:Rag dimers	
+uniprotkb.Q8NBW4	protein	SLC38A9	
+species_8952725	complex	Ragulator:RagA,B:GTP:RagC,D:GDP:SLC38A9	
+species_5655432	molecule	LAMTOR4	
+species_5653581	molecule	LAMTOR3	
+species_5653583	molecule	LAMTOR2	
+species_5653582	molecule	LAMTOR1	
+species_5655441	molecule	LAMTOR5	
+reaction_5653936	reaction	Formation of Ragulator complex	
+species_377400	complex	mTORC1	
+reaction_5653968	reaction	Ragulator:Rag dimers:SLC38A9 bind mTORC1	
+uniprotkb.Q8N122	protein	RPTOR	
+uniprotkb.P42345	protein	MTOR	
+uniprotkb.Q9BVC4	protein	MLST8	
+species_5653972	complex	mTORC1:Ragulator:RagA,B:GTP:RagC,D:GDP:SLC38A9	
+reaction_377186	reaction	Activated Akt1 phosphorylates AKT1S1 (PRAS40)	
+species_199430	molecule	p-T308,S473-AKT1	
+uniprotkb.Q96B36	protein	AKT1S1	
+uniprotkb.Q15382	protein	RHEB	
+species_377420	complex	mTORC1:RHEB:GTP:p-T246-AKT1S1	
+species_29438	molecule	GTP	
+species_165191	complex	RHEB:GDP	
+reaction_165195	reaction	GTP loading by Rheb	
+species_29420	molecule	GDP	
+species_165189	complex	RHEB:GTP	
+species_380934	complex	p-AMPK heterotrimer	
+reaction_380949	reaction	AMPK is dephosphorylated	
+species_380928	molecule	PPM1A	
+uniprotkb.Q13131	protein	PRKAA1	
+uniprotkb.P54646	protein	PRKAA2	
+uniprotkb.Q9Y478	protein	PRKAB1	
+uniprotkb.O43741	protein	PRKAB2	
+uniprotkb.Q9UGJ0	protein	PRKAG2	
+uniprotkb.P54619	protein	PRKAG1	
+uniprotkb.Q9UGI9	protein	PRKAG3	
+species_29372	molecule	Pi	
+species_380961	complex	AMPK heterotrimer	
+reaction_447074	reaction	AMPK phosphorylates Raptor in the mTORC1 complex	
+species_380931	complex	p-AMPK heterotrimer:AMP	
+reaction_200421	reaction	Activation of cytosolic AMPK by phosphorylation	
+species_380967	complex	LKB1:STRAD:MO25	
+species_76577	molecule	AMP	
+reaction_380979	reaction	RHEB in mTORC1:RHEB:GTP hydrolyses GTP	
+species_381855	complex	TSC1:p-S1387-TSC2	
+species_5693447	complex	mTORC1:Ragulator:Rag:GNP:RHEB:GDP	
+reaction_380930	reaction	Phosphorylated AMPK binds AMP	
+ChEBI.16027	unrecognized	ChEBI:16027	
+species_165175	complex	TSC1:TSC2	
+reaction_380927	reaction	p-AMPK phosphorylates TSC1:TSC2	
+uniprotkb.Q92574	protein	TSC1	
+uniprotkb.P49815	protein	TSC2	
+species_380954	molecule	STK11	
+species_380975	complex	MO25	
+species_380963	complex	STRAD	
+reaction_380942	reaction	LKB1 forms a trimeric complex with STRAD and MO25	
+uniprotkb.Q9H9S4	protein	CAB39L	
+uniprotkb.Q9Y376	protein	CAB39	
+uniprotkb.Q7RTN6	protein	STRADA	
+uniprotkb.Q9C0K7	protein	STRADB	
+uniprotkb.Q15831	protein	STK11	
+reaction_5672828	reaction	mTORC1 phosphorylates AKT1S1	
+uniprotkb.P31946	protein	YWHAB	
+species_5672866	complex	mTORC1:RHEB:GTP:p-S183,T246-AKT1S1:YWHAB	
+species_48888	molecule	YWHAB	
+reaction_5672824	reaction	Phosphorylated AKT1S1:mTORC1 binds YWHAB	
+reaction_165680	reaction	Formation of active mTORC1 complex	
+species_5653946	complex	RRAGA, RRAGB:GTP	
+species_5653964	complex	RRAGC,RRAGD:GDP	
+reaction_5653957	reaction	Rag dimer formation	
+species_200155	molecule	AKT1S1	
+reaction_5672843	reaction	AKT1S1 (PRAS40) binds mTORC1	
+species_428011	molecule	L-Arg	
+reaction_8952726	reaction	SLC38A9 transports L-Arg from lysosomal lumen to cytosol	
+species_29468	molecule	L-Arg	
+species_2980548	molecule	TSC2	
+reaction_165162	reaction	Phosphorylation of TSC2 by PKB	
+species_162387	complex	p-T309,S474-AKT2:PIP3	
+species_165164	molecule	p-S939,S1130,T1462-TSC2	
+reaction_165182	reaction	Phosphorylation of complexed TSC2 by PKB	
+species_165180	complex	TSC1:Inhibited TSC2-1-P	
